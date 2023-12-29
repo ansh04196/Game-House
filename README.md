@@ -4,7 +4,7 @@ GameHub is a video game discovery web app that allows users to find new and inte
 
 ## Demo
 
-Check out the live demo of GameHub: [https://game-hub-gnanesh.vercel.app/](https://game-hub-gnanesh.vercel.app/)
+Check out the live demo of GameHub: [ https://game-house-ansh.vercel.app/]( https://game-house-ansh.vercel.app/)
 
 ## Getting Started
 
